@@ -8,3 +8,4 @@ class Demo:
 x=Demo()
 x.first()
 x.second()
+print("Hello World")
